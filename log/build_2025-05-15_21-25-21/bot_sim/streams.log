@@ -1,0 +1,22 @@
+[0.008s] Invoking command in '/home/ichan/ros2_sim/build/bot_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ichan/ros2_sim/build/bot_sim -- -j16 -l16
+[0.026s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.123s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.129s] -- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+[0.151s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.154s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.158s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.166s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.176s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.201s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.202s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.287s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.320s] -- Found geometry_msgs: 4.8.0 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.332s] [31mCMake Error at CMakeLists.txt:19 (message):
+[0.332s]   ONNX Runtime not found.  Pastikan ONNX Runtime sudah terinstall dan path
+[0.332s]   sudah benar.
+[0.332s] 
+[0.332s] [0m
+[0.332s] -- Configuring incomplete, errors occurred!
+[0.332s] See also "/home/ichan/ros2_sim/build/bot_sim/CMakeFiles/CMakeOutput.log".
+[0.337s] gmake: *** [Makefile:321: cmake_check_build_system] Error 1
+[0.339s] Invoked command in '/home/ichan/ros2_sim/build/bot_sim' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ichan/ros2_sim/build/bot_sim -- -j16 -l16

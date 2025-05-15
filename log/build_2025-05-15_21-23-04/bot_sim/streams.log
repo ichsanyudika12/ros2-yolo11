@@ -1,0 +1,18 @@
+[0.008s] Invoking command in '/home/ichan/ros2_sim/build/bot_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ichan/ros2_sim/build/bot_sim -- -j16 -l16
+[0.071s] [ 25%] [32mBuilding CXX object CMakeFiles/color_segmentation_node.dir/src/color_segmentation_node.cpp.o[0m
+[0.071s] [ 50%] [32mBuilding CXX object CMakeFiles/color_segmentation_node.dir/src/utils.cpp.o[0m
+[0.081s] [01m[K/home/ichan/ros2_sim/src/bot_sim/src/utils.cpp:1:10:[m[K [01;31m[Kfatal error: [m[Kutils.h: No such file or directory
+[0.081s]     1 | #include [01;31m[K"utils.h"[m[K
+[0.081s]       |          [01;31m[K^~~~~~~~~[m[K
+[0.081s] compilation terminated.
+[0.081s] gmake[2]: *** [CMakeFiles/color_segmentation_node.dir/build.make:104: CMakeFiles/color_segmentation_node.dir/src/utils.cpp.o] Error 1
+[0.082s] gmake[2]: *** Waiting for unfinished jobs....
+[0.256s] In file included from [01m[K/home/ichan/ros2_sim/src/bot_sim/src/color_segmentation_node.cpp:9[m[K:
+[0.256s] [01m[K/home/ichan/ros2_sim/src/bot_sim/include/bot_sim/yolov8Predictor.h:3:10:[m[K [01;31m[Kfatal error: [m[Konnxruntime_cxx_api.h: No such file or directory
+[0.256s]     3 | #include [01;31m[K<onnxruntime_cxx_api.h>[m[K
+[0.256s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+[0.257s] compilation terminated.
+[0.267s] gmake[2]: *** [CMakeFiles/color_segmentation_node.dir/build.make:76: CMakeFiles/color_segmentation_node.dir/src/color_segmentation_node.cpp.o] Error 1
+[0.268s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/color_segmentation_node.dir/all] Error 2
+[0.268s] gmake: *** [Makefile:146: all] Error 2
+[0.271s] Invoked command in '/home/ichan/ros2_sim/build/bot_sim' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ichan/ros2_sim/build/bot_sim -- -j16 -l16

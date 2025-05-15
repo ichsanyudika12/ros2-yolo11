@@ -1,0 +1,16 @@
+/home/ichan/ros2_sim/install/bot_sim/lib/bot_sim/color_segmentation_node
+/home/ichan/ros2_sim/install/bot_sim/share/ament_index/resource_index/package_run_dependencies/bot_sim
+/home/ichan/ros2_sim/install/bot_sim/share/ament_index/resource_index/parent_prefix_path/bot_sim
+/home/ichan/ros2_sim/install/bot_sim/share/bot_sim/environment/ament_prefix_path.sh
+/home/ichan/ros2_sim/install/bot_sim/share/bot_sim/environment/ament_prefix_path.dsv
+/home/ichan/ros2_sim/install/bot_sim/share/bot_sim/environment/path.sh
+/home/ichan/ros2_sim/install/bot_sim/share/bot_sim/environment/path.dsv
+/home/ichan/ros2_sim/install/bot_sim/share/bot_sim/local_setup.bash
+/home/ichan/ros2_sim/install/bot_sim/share/bot_sim/local_setup.sh
+/home/ichan/ros2_sim/install/bot_sim/share/bot_sim/local_setup.zsh
+/home/ichan/ros2_sim/install/bot_sim/share/bot_sim/local_setup.dsv
+/home/ichan/ros2_sim/install/bot_sim/share/bot_sim/package.dsv
+/home/ichan/ros2_sim/install/bot_sim/share/ament_index/resource_index/packages/bot_sim
+/home/ichan/ros2_sim/install/bot_sim/share/bot_sim/cmake/bot_simConfig.cmake
+/home/ichan/ros2_sim/install/bot_sim/share/bot_sim/cmake/bot_simConfig-version.cmake
+/home/ichan/ros2_sim/install/bot_sim/share/bot_sim/package.xml

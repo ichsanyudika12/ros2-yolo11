@@ -1,0 +1,4 @@
+Invoking command in '/home/ichan/ros2_sim/build/bot_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ichan/ros2_sim/src/bot_sim -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ichan/ros2_sim/install/bot_sim
+Invoked command in '/home/ichan/ros2_sim/build/bot_sim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ichan/ros2_sim/src/bot_sim -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ichan/ros2_sim/install/bot_sim
+Invoking command in '/home/ichan/ros2_sim/build/bot_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ichan/ros2_sim/build/bot_sim -- -j16 -l16
+Invoked command in '/home/ichan/ros2_sim/build/bot_sim' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ichan/ros2_sim/build/bot_sim -- -j16 -l16

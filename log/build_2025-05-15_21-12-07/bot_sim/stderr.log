@@ -1,0 +1,8 @@
+[31mCMake Error at CMakeLists.txt:47 (add_executable):
+  add_executable cannot create target "color_segmentation_node" because
+  another target with the same name already exists.  The existing target is
+  an executable created in source directory
+  "/home/ichan/ros2_sim/src/bot_sim".  See documentation for policy CMP0002
+  for more details.
+
+[0m

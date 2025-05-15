@@ -1,0 +1,10 @@
+/home/ichan/ros2_sim/build/bot_sim/CMakeFiles/uninstall.dir
+/home/ichan/ros2_sim/build/bot_sim/CMakeFiles/bot_sim_uninstall.dir
+/home/ichan/ros2_sim/build/bot_sim/CMakeFiles/color_segmentation_node.dir
+/home/ichan/ros2_sim/build/bot_sim/CMakeFiles/test.dir
+/home/ichan/ros2_sim/build/bot_sim/CMakeFiles/edit_cache.dir
+/home/ichan/ros2_sim/build/bot_sim/CMakeFiles/rebuild_cache.dir
+/home/ichan/ros2_sim/build/bot_sim/CMakeFiles/list_install_components.dir
+/home/ichan/ros2_sim/build/bot_sim/CMakeFiles/install.dir
+/home/ichan/ros2_sim/build/bot_sim/CMakeFiles/install/local.dir
+/home/ichan/ros2_sim/build/bot_sim/CMakeFiles/install/strip.dir
