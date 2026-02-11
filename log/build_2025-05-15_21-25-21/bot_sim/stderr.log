@@ -1,6 +1,0 @@
-[31mCMake Error at CMakeLists.txt:19 (message):
-  ONNX Runtime not found.  Pastikan ONNX Runtime sudah terinstall dan path
-  sudah benar.
-
-[0m
-gmake: *** [Makefile:321: cmake_check_build_system] Error 1

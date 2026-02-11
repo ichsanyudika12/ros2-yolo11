@@ -1,1 +1,0 @@
-/home/ichan/ros2_sim/build/bot_sim/ament_cmake_core/bot_simConfig.cmake
